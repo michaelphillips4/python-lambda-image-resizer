@@ -1,4 +1,4 @@
-#Lambda function to act as a trigger in an s3 bucket.
+# Lambda function to act as a trigger in an s3 bucket.
 
 This will resize an image when one is uploaded to the bucket.
 
